@@ -1,2 +1,2 @@
-# psoct.github.io
+# ps.github.io
 For educational purposes only
